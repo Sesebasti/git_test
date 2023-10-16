@@ -1,3 +1,3 @@
 # git_test
 yea im doing the odin project, what's up
-Hello Odin.
+Hello Odin. Testing the config.
